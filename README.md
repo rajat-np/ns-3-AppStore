@@ -38,6 +38,11 @@ Run migrations:
 
     $ python manage.py migrate
 
+
+### Patch requirement for GSOC2019
+
+	$ python manage.py saveapp util/sift.xml
+
 ### Detailed instructions
 
 Take a look at the wiki/docs for more information.
